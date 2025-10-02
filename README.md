@@ -1,4 +1,4 @@
-# 🛡️ Security Arsenal
+# 🛡️ Security 
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-**Security Engineer • Tool Developer • Penetration Tester**
+**Security Engineer • Penetration Tester**
 
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
@@ -21,11 +21,11 @@
 
 ---
 
-## 🎯 Mission Statement
+## Mission Statement .
 
 I develop offensive security tools and penetration testing frameworks that help organizations identify and remediate vulnerabilities. My work focuses on creating practical, efficient solutions for real-world security challenges.
 
-## ⚔️ Core Expertise
+## Core Expertise
 
 ```go
 type SecurityExpert struct {
@@ -41,16 +41,16 @@ type SecurityExpert struct {
 }
 ```
 
-## 🔧 What I Build
+## What I Build
 
-- **🔍 Reconnaissance Tools** — Information gathering and OSINT automation
-- **🎯 Exploitation Frameworks** — Modular tools for vulnerability exploitation
-- **🔐 Cryptography Implementations** — Secure cryptographic protocols and utilities
-- **🌐 Network Security Tools** — Packet analysis, traffic manipulation, and monitoring
-- **🚀 Automation Scripts** — Streamlining repetitive security tasks
-- **🛠️ Custom Payloads** — Tailored solutions for specific penetration testing scenarios
+- **Reconnaissance Tools** — Information gathering and OSINT automation
+- **Exploitation Frameworks** — Modular tools for vulnerability exploitation
+- **Cryptography Implementations** — Secure cryptographic protocols and utilities
+- **Network Security Tools** — Packet analysis, traffic manipulation, and monitoring
+- **Automation Scripts** — Streamlining repetitive security tasks
+- **Custom Payloads** — Tailored solutions for specific penetration testing scenarios
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -62,7 +62,7 @@ type SecurityExpert struct {
 
 </div>
 
-## 📊 Focus Areas
+## Focus Areas
 
 ```python
 security_domains = {
@@ -74,7 +74,7 @@ security_domains = {
 }
 ```
 
-## 🎓 Philosophy
+## Philosophy
 
 > *"Security is not a product, but a process."* — Bruce Schneier
 
@@ -84,14 +84,14 @@ I believe in:
 - **Continuous learning** — The threat landscape never stops evolving
 - **Practical over theoretical** — Tools must solve real problems
 
-## 🔥 Current Focus
+## Current Focus
 
 - Developing next-generation penetration testing tools
 - Researching modern cryptographic vulnerabilities
 - Building automation frameworks for security assessments
 - Contributing to open-source security projects
 
-## 📫 Connect
+## Connect
 
 <div align="center">
 
