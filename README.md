@@ -16,7 +16,7 @@
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
 [![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![C](https://img.shields.io/badge/_-C-555555.svg??)](https://devdocs.io/c/)
+[![C](https://img.shields.io/badge/_-C-555555.svg??&logo=c-prog&logoColor=white)](https://devdocs.io/c/)
 
 </div>
 
