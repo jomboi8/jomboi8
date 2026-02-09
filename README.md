@@ -51,39 +51,10 @@ type SecurityExpert struct {
 - **Automation Scripts** — Streamlining repetitive security tasks
 - **Custom Payloads** — Tailored solutions for specific penetration testing scenarios
 
-## Tech Stack
-
-<div align="center">
-
-| **Languages** | **Security** | **Tooling** |
-|:---:|:---:|:---:|
-| Go · Python · Bash | Metasploit · Burp Suite | Docker · Git |
-| C · Assembly | Wireshark · nmap | Linux · Unix |
-| JavaScript · SQL | OWASP · CWE | Cloud Platforms |
-
-</div>
-
-## Focus Areas
-
-```python
-security_domains = {
-    "offensive_security": ["penetration_testing", "red_teaming", "exploit_dev"],
-    "cryptography": ["encryption", "hashing", "key_management"],
-    "web_security": ["injection_flaws", "auth_bypass", "api_security"],
-    "network_security": ["protocol_analysis", "traffic_inspection"],
-    "automation": ["ci_cd_security", "scanner_development"]
-}
-```
-
 ## Philosophy
 
 > *"Security is not a product, but a process."* — Bruce Schneier
 
-I believe in:
-- **Responsible disclosure** — Ethical handling of vulnerabilities
-- **Open-source contribution** — Knowledge sharing strengthens security
-- **Continuous learning** — The threat landscape never stops evolving
-- **Practical over theoretical** — Tools must solve real problems
 
 ## Current Focus
 
@@ -112,7 +83,5 @@ I believe in:
 #!/bin/bash
 echo "Stay curious. Stay secure. Keep building."
 ```
-
-**⚡ All tools are developed for educational and authorized testing purposes only**
 
 </div>
