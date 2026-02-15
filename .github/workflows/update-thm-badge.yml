@@ -8,6 +8,8 @@ on:
 jobs:
   update-badge:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Explicitly grant write permissions
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
