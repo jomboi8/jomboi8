@@ -10,7 +10,7 @@
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
-[![TryHackMeBadge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2970720)]
+[![TryHackMeBadge](assets/tryhackme-badge.png)](https://tryhackme.com/p/jomboi8)
 
 **Security Engineer • Penetration Tester**
 
