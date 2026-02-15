@@ -5,8 +5,8 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║   ⚡ Building tools that expose vulnerabilities          ║
-║      before adversaries exploit them                     ║
+║    Building tools that matter                             ║
+║      before adversaries exploit them                      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
