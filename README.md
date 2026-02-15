@@ -10,7 +10,7 @@
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
-!(https://raw.githubusercontent.com/jomboi8/jomboi8/main/assets/tryhackme-badge.png)
+![TryHackMeBadge](https://raw.githubusercontent.com/jomboi8/jomboi8/main/assets/tryhackme-badge.png)
 
 **Security Engineer • Penetration Tester**
 
