@@ -5,7 +5,7 @@
 ```ascii
 ╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
-║    Building tools that matter                             ║
+║         Building tools that matter                        ║
 ║      before adversaries exploit them                      ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
