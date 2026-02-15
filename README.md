@@ -3,12 +3,12 @@
 <div align="center">
 
 ```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║         Building tools that matter                        ║
-║      before adversaries exploit them                      ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════╗
+║                                             ║
+║         Building tools that matter          ║
+║      before adversaries exploit them        ║
+║                                             ║
+╚═════════════════════════════════════════════╝
 ```
 ![TryHackMeBadge](https://raw.githubusercontent.com/jomboi8/jomboi8/main/assets/tryhackme-badge.png)
 
