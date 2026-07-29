@@ -1,87 +1,76 @@
-# 🛡️ Cyber Security Expert
-
 <div align="center">
 
-```ascii
-╔═════════════════════════════════════════════╗
-║                                             ║
-║         Building tools that matter          ║
-║      before adversaries exploit them        ║
-║                                             ║
-╚═════════════════════════════════════════════╝
 ```
-
-**Security Engineer • Penetration Tester**
-
-[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
-[![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![C](https://img.shields.io/badge/_-C-555555.svg??&logo=c-prog&logoColor=white)](https://devdocs.io/c/)
+┌──────────────────────────────────────────┐
+│  leonard jombo                            │
+│  software engineer · language technology  │
+└──────────────────────────────────────────┘
+```
 
 </div>
 
----
+<br>
 
-## Mission Statement .
+I build software, currently focused on natural language processing —
+taking systems from research ideas to things people actually use.
+Final-year Computer Science student.
 
-I develop offensive security tools and penetration testing frameworks that help organizations identify and remediate vulnerabilities. My work focuses on creating practical, efficient solutions for real-world security challenges.
+**Working on:** Software Engineering · Language Technology (NLP)
 
-## Core Expertise
+<br>
 
-```go
-type SecurityExpert struct {
-    Languages       []string{"Go", "Python", "Bash"}
-    Specializations []string{
-        "Penetration Testing Tools",
-        "Security Automation",
-        "Cryptographic Implementations",
-        "Vulnerability Assessment",
-        "Exploit Development",
-        "Network Security Tools",
-    }
-}
-```
+### Stack
 
-## What I Build
+<p>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" alt="Go">
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+</p>
+<p>
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+<img src="https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face">
+<img src="https://img.shields.io/badge/spaCy-000000?style=flat-square&logo=spacy&logoColor=white" alt="spaCy">
+<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
 
-- **Reconnaissance Tools** — Information gathering and OSINT automation
-- **Exploitation Frameworks** — Modular tools for vulnerability exploitation
-- **Cryptography Implementations** — Secure cryptographic protocols and utilities
-- **Network Security Tools** — Packet analysis, traffic manipulation, and monitoring
-- **Automation Scripts** — Streamlining repetitive security tasks
-- **Custom Payloads** — Tailored solutions for specific penetration testing scenarios
+**Currently learning:** transformer internals · LLM fine-tuning & evaluation · distributed systems
 
-## Philosophy
+<br>
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+### Featured Projects
 
+<!-- Replace each row below with a real project: name, one-line description, and link -->
 
-## Current Focus
+| Project | Description |
+|---|---|
+| [`project-one`](#) | one-line description of what it does and why it exists |
+| [`project-two`](#) | one-line description of what it does and why it exists |
+| [`project-three`](#) | one-line description of what it does and why it exists |
 
-- Developing next-generation penetration testing tools
-- Researching modern cryptographic vulnerabilities
-- Building automation frameworks for security assessments
-- Contributing to open-source security projects
+<br>
 
-## Connect
+### Activity
 
-<div align="center">
+<p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jomboi8&show_icons=true&hide_border=true&theme=default&hide_title=true&title_color=000000&icon_color=000000&text_color=333333&bg_color=ffffff" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jomboi8&layout=compact&hide_border=true&theme=default&title_color=000000&text_color=333333&bg_color=ffffff" alt="Top languages">
+</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jomboi8&hide_border=true&theme=default&background=FFFFFF&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000" alt="GitHub streak">
 
-**Interested in collaboration or have questions about security tooling?**
+<br>
+<br>
 
-[![GitHub](https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jomboi8)
-[![Twitter](https://img.shields.io/badge/Follow-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/maesttros)
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leonard-jombo-994aa9386/)
+### Contact
 
-</div>
-
----
-
-<div align="center">
-
-```bash
-#!/bin/bash
-echo "Stay curious. Stay secure. Keep building."
-```
+<p>
+<a href="mailto:leonardduncani8@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/leonard-jombo-994aa9386/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 </div>
