@@ -21,8 +21,8 @@ I build software across backend systems, mobile apps and language technology.Wha
 | Project | What it does |
 |---|---|
 | [Dawida](#) | Mobile platform for documenting and preserving low-resource African languages — collecting vocabulary, cultural knowledge, and visual resources to support future language technologies. |
-| [TaitaCLIR](#) | Semantic search engine for market products (SokoTalk). Search in plain English — a keyword or a natural-language description — and get back the most relevant products, named in English, Kiswahili, and Taita. |
-| [EchoTrack](#) | Generates high-fidelity syslog traffic, because testing security tools shouldn't require waiting for real attacks. |
+| [TaitaCLIR](https://github.com/jomboi8/TaitaCLIR) | Semantic search engine for market products (SokoTalk). Search in plain English — a keyword or a natural-language description — and get back the most relevant products, named in English, Kiswahili, and Taita. |
+| [EchoTrack](https://github.com/jomboi8/EchoTrack) | Generates high-fidelity syslog traffic, because testing security tools shouldn't require waiting for real attacks. |
 
 <br>
 
