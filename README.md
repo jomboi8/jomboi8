@@ -14,7 +14,7 @@ I build software across backend systems, mobile apps and language technology.Wha
 
 <br>
 
-## Selected projects
+## Projects
 
 <!-- Update the link in each row once the repos are public. -->
 
