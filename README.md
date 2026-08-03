@@ -20,6 +20,7 @@ I build software across backend systems, mobile apps and language technology.Wha
 | [EchoTrack](https://github.com/jomboi8/EchoTrack) | Generates high-fidelity syslog traffic, because testing security tools shouldn't require waiting for real attacks. |
 
 <br>
+
 ## Contact
 
 [Email](mailto:leonardduncani8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leonard-jombo-994aa9386/)
