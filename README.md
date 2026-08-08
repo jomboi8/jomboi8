@@ -23,4 +23,4 @@ I build software across backend systems and System Tools .What stays constant is
 
 ## Contact
 
-[Email](mailto:leonardduncani8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leonard-jombo-994aa9386/)
+[Email](mailto:leonardduncani8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leonard-jombo-994aa9386/) · [MyWebsite](https://jomboi8.davida.ink/)
