@@ -5,7 +5,8 @@ Software Engineer
 
 I build software across backend systems and system tools. What stays constant is the standard: clean architecture, code that's easy to change later and products people actually rely on.
 
-Open to software engineering, systems and backend engineering roles · Portfolio: [jomboi8.davida.ink](https://jomboi8.davida.ink/)
+Open to software engineering, systems and backend engineering roles .
+Portfolio: [jomboi8.davida.ink](https://jomboi8.davida.ink/)
 <br>
 
 ## Currently building
