@@ -3,21 +3,21 @@
 Computer Science · Software Engineering · ML & NLP
 <br>
 
-I'm a Computer Science graduate from Maseno University. I build backend systems and mobile apps in Go, Python and Flutter, and spend the rest of my time on NLP research for low-resource African languages — in 2026 I took part in the **Princeton in Kenya Global Seminar (GLS 347: Technology for African Languages in the Digital Age)**, where I built a cross-lingual search system for Kidaw'ida (Taita).
+I'm a Computer Science graduate from Maseno University. I build backend systems and mobile apps in Go, Python, Flutter and spend time on NLP research for low-resource African languages .
 
 Portfolio: [jomboi8.davida.ink](https://jomboi8.davida.ink/)
 <br>
 
 ## Research interests
 
-NLP and machine learning for low-resource African languages, especially cross-lingual transfer and community-driven data curation. Most of this comes from working on Kidaw'ida (Taita), an agglutinative Bantu language that exposes where a lot of standard NLP tooling breaks down. Dawida taught me that low-resource NLP starts with data — capturing words, audio and cultural context directly from speakers before any modelling is possible. TaitaCLIR gave me hands-on experience with cross-lingual sentence embeddings and semantic retrieval over a small parallel corpus. I'm now interested in morphologically aware machine translation for languages like Taita, including how similarity to Kiswahili and lightweight fine-tuning methods could make translation practical for communities with limited digital resources.
+NLP and machine learning for low-resource African languages, especially cross-lingual transfer and community-driven data curation. Most of this comes from working on Kidaw'ida (Taita), an agglutinative Bantu language that exposes where a lot of standard NLP tooling breaks down.I'm working on my interests in morphologically aware machine translation for languages like Taita, including how similarity to Kiswahili and lightweight fine-tuning methods could make translation practical for communities with limited digital resources.
 <br>
 
 ## Language technology & research
 
-**[TaitaCLIR](https://github.com/jomboi8/TaitaCLIR)** — Cross-lingual semantic search for Taita. A multilingual sentence transformer (`paraphrase-multilingual-MiniLM-L12-v2`, later LaBSE) encodes queries and a product catalog in English, Kiswahili and Taita; FAISS retrieves the closest matches by meaning; a Streamlit interface shows results across all three languages. Built during the Princeton in Kenya Global Seminar and extended since with a Princeton faculty mentor and a fellow student researcher into a three-part system (Flutter app, Go API, Python retrieval service over Postgres). On a labeled 36-query evaluation set across English, Kiswahili and Taita, it reaches **Recall@1 of 80.6%**, **Recall@5 of 94.4%** and an **MRR of 0.86**; we also benchmarked LaBSE against Cohere's multilingual embeddings to pick the retrieval model. Now moving toward a RAG architecture to handle harder, descriptive queries. `Python` · `Sentence-Transformers` · `FAISS` · `Streamlit` · `Go` · `PostgreSQL` · `Flutter`
+**[TaitaCLIR](https://github.com/jomboi8/TaitaCLIR)** — Cross-lingual semantic search for Taita. A multilingual sentence transformer (`paraphrase-multilingual-MiniLM-L12-v2`, later LaBSE) encodes queries and a product catalog in English, Kiswahili and Taita; FAISS retrieves the closest matches by meaning; a Streamlit interface shows results across all three languages. Built during the Princeton in Kenya Global Seminar  `Python` · `Sentence-Transformers` · `FAISS` · `Streamlit` ·
 
-**[Dawida](https://github.com/jomboi8/davida-app-backend)** — Mobile platform for building digital language resources for the Taita language. Kidaw'ida has almost no digital presence: no structured word lists, translations or audio. Contributors add words, meanings, example sentences and pronunciation audio, and the community verifies entries through voting, building a shared, checked lexicon — the kind of dataset low-resource NLP and speech work depends on. Flutter, offline-first, syncing through a Go and PostgreSQL backend. **[Play Store](https://play.google.com/store/apps/details?id=ink.davida.app)** (closed testing). `Flutter` · `Dart` · `Go` · `PostgreSQL` · `Offline-first`
+**[Dawida](https://github.com/jomboi8/davida-app-backend)** — Mobile platform for building digital language resources for the Taita language. Contributors add words, meanings, example sentences and pronunciation audio, and the community verifies entries through voting, building a shared, checked lexicon  **[Play Store](https://play.google.com/store/apps/details?id=ink.davida.app)** . `Flutter` · `Dart` · `Go` · `PostgreSQL` · `Offline-first`
 <br>
 
 ## Other projects
@@ -46,7 +46,7 @@ NLP and machine learning for low-resource African languages, especially cross-li
 
 ## Education
 
-**BSc Computer Science**, Maseno University (2022–2026). Coursework spanned software development, distributed systems, cloud computing and artificial intelligence, with a strong foundation in cybersecurity and information security management. Served as Cyber Security Lead in the Google Developer Student Club.
+**BSc Computer Science**, Maseno University (2022–2026).
 <br>
 
 ## Contact
