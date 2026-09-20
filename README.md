@@ -1,33 +1,54 @@
 # Leonard Jombo
 
-Software Engineer
+Computer Science · Software Engineering · ML & NLP
 <br>
 
-I build software across backend systems and system tools. What stays constant is the standard: clean architecture, code that's easy to change later and products people actually rely on.
+I'm a Computer Science graduate from Maseno University. I build backend systems and mobile apps in Go, Python and Flutter, and spend the rest of my time on NLP research for low-resource African languages — in 2026 I took part in the **Princeton in Kenya Global Seminar (GLS 347: Technology for African Languages in the Digital Age)**, where I built a cross-lingual search system for Kidaw'ida (Taita).
 
-Open to software engineering, systems and backend engineering roles .
 Portfolio: [jomboi8.davida.ink](https://jomboi8.davida.ink/)
 <br>
 
-## Currently building
+## Research interests
 
-**[Kairo](https://github.com/jomboi8/Kairo)** - A real-time, multi-user project & task tracker . Live at [kairo.davida.ink](https://kairo.davida.ink).
+NLP and machine learning for low-resource African languages, especially cross-lingual transfer and community-driven data curation. Most of this comes from working on Kidaw'ida (Taita), an agglutinative Bantu language that exposes where a lot of standard NLP tooling breaks down. Dawida taught me that low-resource NLP starts with data — capturing words, audio and cultural context directly from speakers before any modelling is possible. TaitaCLIR gave me hands-on experience with cross-lingual sentence embeddings and semantic retrieval over a small parallel corpus. I'm now interested in morphologically aware machine translation for languages like Taita, including how similarity to Kiswahili and lightweight fine-tuning methods could make translation practical for communities with limited digital resources.
 <br>
 
+## Language technology & research
 
-## Projects
+**[TaitaCLIR](https://github.com/jomboi8/TaitaCLIR)** — Cross-lingual semantic search for Taita. A multilingual sentence transformer (`paraphrase-multilingual-MiniLM-L12-v2`, later LaBSE) encodes queries and a product catalog in English, Kiswahili and Taita; FAISS retrieves the closest matches by meaning; a Streamlit interface shows results across all three languages. Built during the Princeton in Kenya Global Seminar and extended since with a Princeton faculty mentor and a fellow student researcher into a three-part system (Flutter app, Go API, Python retrieval service over Postgres). On a labeled 36-query evaluation set across English, Kiswahili and Taita, it reaches **Recall@1 of 80.6%**, **Recall@5 of 94.4%** and an **MRR of 0.86**; we also benchmarked LaBSE against Cohere's multilingual embeddings to pick the retrieval model. Now moving toward a RAG architecture to handle harder, descriptive queries. `Python` · `Sentence-Transformers` · `FAISS` · `Streamlit` · `Go` · `PostgreSQL` · `Flutter`
 
-| Project | What it does |
-|---|---|
-| [Kairo](https://github.com/jomboi8/Kairo) | Real-time, multi-user project & task tracker . Kanban board, calendar , Gantt-style timeline and typing indicators over a real WebSocket hub. **[Live demo](https://kairo.davida.ink)**. |
-| [Dawida](https://github.com/jomboi8/davida-app-backend) | Mobile platform for documenting and preserving low-resource African languages .Collecting vocabulary, cultural knowledge and visual resources . **[GooglePlayStoreLink](https://play.google.com/store/apps/details?id=ink.davida.app)**. |
-| [TaitaCLIR](https://github.com/jomboi8/TaitaCLIR) | Semantic search engine for market products (SokoTalk). Search in plain English — a keyword or a natural-language description — and get back the most relevant products, named in English, Kiswahili and Taita. |
-| [EchoStrike](https://github.com/jomboi8/EchoStrike) | Generates high-fidelity syslog traffic, because testing security tools shouldn't require waiting for real attacks. |
-| [Mawora](https://github.com/jomboi8/FarmOperationsRelease) | Mawora is a mobile-first farm management application designed to help farm owners and field workers manage day-to-day agricultural operations |
+**[Dawida](https://github.com/jomboi8/davida-app-backend)** — Mobile platform for building digital language resources for the Taita language. Kidaw'ida has almost no digital presence: no structured word lists, translations or audio. Contributors add words, meanings, example sentences and pronunciation audio, and the community verifies entries through voting, building a shared, checked lexicon — the kind of dataset low-resource NLP and speech work depends on. Flutter, offline-first, syncing through a Go and PostgreSQL backend. **[Play Store](https://play.google.com/store/apps/details?id=ink.davida.app)** (closed testing). `Flutter` · `Dart` · `Go` · `PostgreSQL` · `Offline-first`
+<br>
 
-> Dawida mobile app is yet to be pushed to production on google playstore - currently under closed testing . 
+## Other projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [Kairo](https://github.com/jomboi8/Kairo) | Real-time, multi-user project & task tracker. Kanban board, calendar, Gantt-style timeline and typing indicators over a per-project WebSocket hub. **[Live demo](https://kairo.davida.ink)**. | Go, React, PostgreSQL, WebSockets |
+| [Mawora](https://github.com/jomboi8/FarmOperationsRelease) | Mobile-first farm management app replacing paper records with structured tracking of production, inventory, sales and expenses across multiple farm sites, offline-first with role-based access. | Flutter, Dart, Offline-first |
+| [EchoStrike](https://github.com/jomboi8/echostrike) | Single-binary Go tool that generates high-fidelity syslog traffic (RFC 3164/5424, UDP/TCP/TLS) to stress-test SIEM ingestion, parsing and detection rules, so testing security pipelines doesn't require waiting for a real attack. | Go |
+<br>
+
+## Skills
+
+**Machine Learning & NLP** — Sentence Embeddings, Sentence-Transformers, FAISS (Vector Search), Cross-Lingual Retrieval, Streamlit, Jupyter Notebooks
+
+**Programming Languages** — Go, Python, TypeScript, SQL, Dart, Bash, C
+
+**Backend & Systems** — REST APIs, WebSockets, Distributed Systems, Concurrency (Goroutines), Gin, Chi, JWT / OAuth2
+
+**Databases & Data** — PostgreSQL, SQLite, Supabase, NeonDB, sqlc, Schema Design
+
+**Mobile Development** — Flutter, Dart, Offline-first Sync
+
+**Cloud, DevOps & Security** — Docker, Git/GitHub, CI/CD, Linux, OWASP Top 10, Burp Suite, Wireshark
+<br>
+
+## Education
+
+**BSc Computer Science**, Maseno University (2022–2026). Coursework spanned software development, distributed systems, cloud computing and artificial intelligence, with a strong foundation in cybersecurity and information security management. Served as Cyber Security Lead in the Google Developer Student Club.
 <br>
 
 ## Contact
 
-[Email](mailto:leonardduncani8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leonard-jombo-994aa9386/) · [MyWebsite](https://jomboi8.davida.ink/)
+[Email](mailto:leonardduncani8@gmail.com) · [LinkedIn](https://www.linkedin.com/in/leonard-jombo-994aa9386/) · [Portfolio](https://jomboi8.davida.ink/)
